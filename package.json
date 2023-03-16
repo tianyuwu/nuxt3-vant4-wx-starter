@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --dotenv .env.local",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^0.50.1",
+    "@vant/nuxt": "^1.0.0",
+    "@vueuse/nuxt": "^9.13.0",
+    "nuxt": "^3.3.0",
+    "postcss-100vh-fix": "^1.0.2",
+    "postcss-pxtorem": "^6.0.0"
+  },
+  "dependencies": {
+    "@vueuse/core": "^9.13.0",
+    "vant": "^4.1.0"
+  }
+}

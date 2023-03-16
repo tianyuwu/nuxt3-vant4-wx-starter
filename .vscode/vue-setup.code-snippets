@@ -1,0 +1,15 @@
+{
+	"vue setup template": {
+		"prefix": "setup",
+		"body": [
+			"<script setup>",
+			"$1",
+			"</script>",
+			"",
+			"<template>",
+			"  <div>$2</div>",
+			"</template>"
+		],
+		"description": "vue setup template"
+	}
+}

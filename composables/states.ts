@@ -1,0 +1,1 @@
+export const useUserInfo = () => useState<object | null>('userInfo', () => null)

@@ -1,0 +1,15 @@
+{
+	"vue setup ts template": {
+		"prefix": "setup-ts",
+		"body": [
+			"<script setup lang=\"ts\">",
+			"$1",
+			"</script>",
+			"",
+			"<template>",
+			"  <div>$2</div>",
+			"</template>"
+		],
+		"description": "vue setup typescript template"
+	}
+}
